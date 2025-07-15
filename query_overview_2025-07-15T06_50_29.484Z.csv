@@ -1,4 +1,4 @@
-count,__time,label,dashed
+count,timestamp,label,dashed
 10,2025-07-08T06:00:00Z,odoo.lienka.my.id,true
 10,2025-07-08T06:00:00Z,wireguard.lienka.my.id,true
 0,2025-07-08T06:00:00Z,coma.lienka.my.id,true
